@@ -6,9 +6,9 @@ The Dutch pilot focuses on making distributed energy assets measurable, interope
 
 Electricity Campus Arnhems Buiten acts as a living lab for grid-scale innovation. The campus has its own local electricity infrastructure and is located in a congested grid area, making it a relevant environment to test how hidden grid capacity can be unlocked through better data, flexible operation and interoperable control.
 
-## Documentation
+## Further information
 
-- [API overview](docs/api.md) – Explains the purpose of the API, what it can be used for, and how it supports the Electricity Campus HEDGE-IoT pilot.
+- [API overview](docs/api.md) – Explains the purpose of the ECplatform API, what it can be used for, and how it supports the Electricity Campus HEDGE-IoT pilot.
 
 ## What the pilot explores
 
